@@ -27,7 +27,7 @@ pillow==10.4.0
 premailer==3.10.0
 protobuf==5.27.3
 psycopg2==2.9.9
-pyarrow==20.0.0
+pyarrow
 pydeck==0.9.1
 Pygments==2.18.0
 python-dateutil==2.9.0.post0
